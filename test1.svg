@@ -1,7 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-  <foreignObject>
-    <body xmlns="http://www.w3.org/1999/xhtml">
-      <h1>hello</h1>
-    </body>
-  </foreignObject>
+  <rect width="100" height="100" onmouseover="alert(document.domain)"/>
 </svg>
